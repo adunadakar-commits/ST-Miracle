@@ -1,0 +1,7 @@
+{
+  "name": "Sénégal Télécom - Le Miracle Numérique",
+  "description": "L'infrastructure souveraine qui propulse l'Afrique dans l'ère de la lumière. Connectivité ultra-rapide, IA décentralisée et réseaux auto-cicatrisants.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
